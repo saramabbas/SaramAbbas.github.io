@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Saram Abbas | PhD in Oncology
+title: Saram Abbas | PhD student - AI in Oncology
 email:
 description: >- # this means to ignore newlines until "baseurl:"
  PhD researcher developing explainable AI for bladder cancer recurrence. Published in Frontiers in Oncology and EMBC 2025. Passionate about transparent machine learning for real-world healthcare.
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Saram Abbas"
   avatar : "/assets/images/bio-photo.jpg" # Replace with your real image file
-  bio    : "PhD in Explainable AI for Bladder Cancer | Frontiers | EMBC 2025"
+  bio    : "PhD in Explainable AI for Bladder Cancer"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -80,7 +80,7 @@ footer:
     #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/saramabbas"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
