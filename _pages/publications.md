@@ -27,10 +27,9 @@ author_profile: true
 
 <div style="margin-bottom: 1.5rem; padding: 1rem; border: 1px solid #eee; border-radius: 6px;">
   <h4 style="margin-top: 0;">Attention-enabled Explainable AI for Bladder Cancer Recurrence Prediction</h4>
-  <p style="margin: 0;"><em>Accepted at IEEE EMBC 2025, Copenhagen</em> — <span style="color: #888;">DOI: Forthcoming</span></p>
+  <p style="margin: 0;"><em>Accepted at IEEE EMBC 2025, Copenhagen</em> — <a href="https://arxiv.org/abs/2505.00171">DOI: 10.48550/arXiv.2505.00171</a> </p>
   <p style="margin-top: 0.5rem;">Presents a hybrid model combining XGBoost with attention-based neural networks. Achieves strong predictive performance (AUC 0.83) on NHS datasets while preserving interpretability for clinical decision-making.</p>
 </div>
-
 ---
 
 ## Manuscripts in Preparation

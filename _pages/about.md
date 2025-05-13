@@ -4,6 +4,11 @@ permalink: /about/
 layout: single
 author_profile: true
 ---
+<div style="display: flex; justify-content: flex-end; margin-top: -2rem; margin-bottom: 1.5rem;">
+  <a href="/assets/files/Saram-Abbas-CV.pdf" class="btn btn--primary" target="_blank" rel="noopener">
+    <i class="fas fa-file-pdf" style="margin-right: 0.5rem;"></i>Download CV
+  </a>
+</div>
 
 Hey — I’m **Saram Abbas**, a PhD researcher in Explainable AI for oncology at Newcastle University. I design machine learning systems that do more than just predict — they explain. My goal? To build tools that doctors can actually use, trust, and understand — especially when the stakes are high.
 
