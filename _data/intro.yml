@@ -1,18 +1,9 @@
 - title: ""
   excerpt: >
-     <p>
-        Welcome! I'm <strong>Saram Abbas</strong>, a PhD researcher at Newcastle University using interpretable machine learning to improve how we predict cancer recurrence, especially in real-world clinical settings.
-      </p>
-      <p>
-        My research focuses on transparent models like attention-enhanced neural networks, XGBoost hybrids, and neuro-symbolic AI to bring clarity to complex predictions.
-      </p>
-      <p>
-        I'm passionate about <strong>making AI explainable for clinicians</strong> and <strong>scalable for underserved healthcare systems</strong>. My work is published in <em>Frontiers in Oncology</em> and accepted at <em>EMBC 2025</em>.
-      </p>
-      <p>
-        Explore my <a href="/publications/">publications</a>, <a href="/projects/">projects</a>, or connect via <a href="https://github.com/saramabbas">GitHub</a> or <a href="https://www.linkedin.com/in/saram-abbas/">LinkedIn</a>.
-      </p>
+    Welcome! I'm **Saram Abbas**, a PhD researcher at Newcastle University using interpretable machine learning to improve how we predict cancer recurrence, especially in real-world clinical settings. My research focuses on developing transparent models like attention-enhanced neural networks, XGBoost hybrids, and neuro-symbolic AI to bring clarity to complex predictions.
 
-      <p>
-      <img src="/assets/images/profile.jpg" alt="Saram Abbas" width="200" style="border-radius: 10px;">
-      </p>
+    I'm particularly passionate about **making AI explainable for clinicians** and **scalable for underserved healthcare systems**. My work has been published in *Frontiers in Oncology* and accepted at *EMBC 2025*.
+
+    Feel free to explore my publications, current projects, or connect via [GitHub](https://github.com/saramabbas) or [LinkedIn](https://www.linkedin.com/in/saram-abbas/).
+  image_path: /assets/images/AttentionExplanation.png
+  alt: "AI dashboard visual"
