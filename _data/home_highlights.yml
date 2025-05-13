@@ -1,0 +1,23 @@
+- image_path: /assets/images/icon-ai.png
+  title: Explainable AI
+  excerpt: >
+    Using interpretable models to predict cancer recurrence in a way clinicians can trust.
+  url: "/projects/"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+
+- image_path: /assets/images/icon-publications.png
+  title: Publications
+  excerpt: >
+    Peer-reviewed papers in leading medical AI conferences and journals.
+  url: "/publications/"
+  btn_label: "See Publications"
+  btn_class: "btn--primary"
+
+- image_path: /assets/images/icon-clinic.png
+  title: Clinical Impact
+  excerpt: >
+    Working with NHS datasets to deploy scalable and ethical AI in real-world healthcare.
+  url: "/about/"
+  btn_label: "My Mission"
+  btn_class: "btn--primary"
